@@ -7,4 +7,4 @@ This is a simple text editor that runs in a browser and features a number of dat
 
 ### Links
 [GitHub repo](https://github.com/smrsun/textEditorPWA)
-[Render Deployment]()
+[Render Deployment](https://texteditorpwa-pgfp.onrender.com)
